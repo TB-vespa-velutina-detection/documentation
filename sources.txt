@@ -1,0 +1,38 @@
+Dataset
+Cyp. (2023). Asian Hornet 2 Dataset [ Open Source Dataset ]. In Roboflow Universe . Roboflow . https://universe.roboflow.com/cyp-puhyr/asian-hornet-2
+
+CNN et variantes dans l'histoire:
+https://www.mdpi.com/2079-9292/10/20/2470
+
+Classification vs détection d'objet
+https://mindy-support.com/news-post/image-classification-vs-object-detection-everything-you-need-to-know/
+
+Classification vs détection d'objet vs segmentation
+https://ruhelalakshya.medium.com/image-classification-vs-object-detection-and-image-segmentation-e89af675e976
+
+Détection d'objets
+
+Integration of CNN in mobile applications
+https://arxiv.org/pdf/2103.07286
+=> Mentionne un format de fichier .ONNX (Open Neural Network Exchange)
+
+Bibliographie
+https://biblio.hesav.ch/normes-apa7/
+
+Perf CNN sur mobiles
+https://www.sciencedirect.com/science/article/pii/S1877050922011760
+
+CNN watermark pour déterminer classe:
+https://www.researchgate.net/publication/331397043_Unmasking_Clever_Hans_Predictors_and_Assessing_What_Machines_Really_Learn
+
+CNN récent et perf sur mobiles
+https://machinethink.net/blog/mobile-architectures/ 
+
+CNN archis
+https://medium.com/analytics-vidhya/types-of-convolutional-neural-networks-lenet-alexnet-vgg-16-net-resnet-and-inception-net-759e5f197580
+
+TF to TFLite
+https://kieran-mcc91.medium.com/deep-learning-project-image-classifier-deployed-to-flutter-app-from-scratch-f77c53014cb9
+
+TFLite to Flutter
+https://medium.com/analytics-vidhya/run-cnn-model-in-flutter-10c944cadcba
