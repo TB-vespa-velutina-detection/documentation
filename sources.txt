@@ -36,3 +36,6 @@ https://kieran-mcc91.medium.com/deep-learning-project-image-classifier-deployed-
 
 TFLite to Flutter
 https://medium.com/analytics-vidhya/run-cnn-model-in-flutter-10c944cadcba
+
+TFLite Flutter GitHub project
+https://github.com/tensorflow/flutter-tflite
