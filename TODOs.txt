@@ -1,0 +1,3 @@
+- Alimenter la liste des codes sources
+- Mettre tous les termes en langue étrangère en italique
+- Écrire le résumé

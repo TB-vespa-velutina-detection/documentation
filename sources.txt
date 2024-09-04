@@ -39,3 +39,6 @@ https://medium.com/analytics-vidhya/run-cnn-model-in-flutter-10c944cadcba
 
 TFLite Flutter GitHub project
 https://github.com/tensorflow/flutter-tflite
+
+Flutter package
+https://docs.flutter.dev/packages-and-plugins/developing-packages
