@@ -42,3 +42,9 @@ https://github.com/tensorflow/flutter-tflite
 
 Flutter package
 https://docs.flutter.dev/packages-and-plugins/developing-packages
+
+XNN Pack avec une belle image à chopper:
+https://blog.tensorflow.org/2020/07/accelerating-tensorflow-lite-xnnpack-integration.html
+
+TFlite files + metadata
+https://ai.google.dev/edge/litert/models/metadata#pack_the_associated_files
