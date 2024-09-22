@@ -1,3 +1,0 @@
-- Mettre tous les termes en langue étrangère en italique
-The method 'UnmodifiableUint8ListView' isn't defined for the class 'Tensor'
-module 'image_picker_ios' not found
